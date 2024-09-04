@@ -28,6 +28,8 @@ This project focuses on enhancing business performance through:
 - **Programming Languages:** Python
 - **Data Analysis Tools:** SQL, Advanced Excel
 - **Visualization Tools:** Power BI
-# DASHBOARD 
+# Dashboard 
 ![Screenshot 2024-09-04 at 1 59 14 PM](https://github.com/user-attachments/assets/c78baef1-2033-4e71-9ecb-82a364263181)
+# Sales Forcast Dashboard
+![Screenshot 2024-09-04 at 1 59 44 PM](https://github.com/user-attachments/assets/df2a7ad1-a90d-4b5a-b7cc-7ee598c7b604)
 
